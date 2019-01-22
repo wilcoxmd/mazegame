@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/mazegame/static/css/main.193198e5.chunk.css"
   },
   {
-    "revision": "0cdf75954893ef52192d6814953baea4",
+    "revision": "00ac23e005b7431e45ac09fab7599c54",
     "url": "/mazegame/index.html"
   }
 ];

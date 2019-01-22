@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mazegame/precache-manifest.9153276568565f2ef4d023d574ca9d8d.js"
+  "/mazegame/precache-manifest.7c744f2d4c1be75939755f393682fdd1.js"
 );
 
 workbox.clientsClaim();
