@@ -111,7 +111,9 @@ export class Game extends React.Component {
       this.props.playingGame
     ) {
       alert(
-        `Game over. Total moves to save princess: ${this.state.totalMoves}`
+        `Nice work! You crushed those goombas in just ${
+          this.state.totalMoves
+        } moves!`
       );
       this.props.handleGameOver();
     }

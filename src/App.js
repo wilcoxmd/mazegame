@@ -18,8 +18,12 @@ class App extends Component {
 
   componentDidMount() {
     if (!this.state.playingGame) {
-      const width = window.prompt("input game board width");
-      const height = window.prompt("input game board height");
+      const width = window.prompt(
+        "Input game board width. \n(A number >= 1. 10 is a good start)"
+      );
+      const height = window.prompt(
+        "Input game board height. \n(A number >= 1. 10 is a good start)"
+      );
 
       this.setState({
         playingGame: true,
@@ -31,6 +35,11 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <div className="message" style={{ width: 400, marginRight: 50 }}>
+          <h1 style={{ fontSize: 24 }}>
+            Use the arrow keys to stomp those pesky goombas!
+          </h1>
+        </div>
         <Game
           size={this.state.size}
           startingLoc={this.state.startingLoc}
