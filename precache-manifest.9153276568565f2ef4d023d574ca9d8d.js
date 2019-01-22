@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/mazegame/static/js/runtime~main.8c616ba7.js"
   },
   {
-    "revision": "22921c157093340414af",
-    "url": "/mazegame/static/js/main.22921c15.chunk.js"
+    "revision": "7cfd9b3aea4f958b09f4",
+    "url": "/mazegame/static/js/main.7cfd9b3a.chunk.js"
   },
   {
     "revision": "6c286b01531093c9c127",
     "url": "/mazegame/static/js/1.6c286b01.chunk.js"
   },
   {
-    "revision": "22921c157093340414af",
+    "revision": "7cfd9b3aea4f958b09f4",
     "url": "/mazegame/static/css/main.193198e5.chunk.css"
   },
   {
-    "revision": "6843ad22c4a7cc509d017348ef73278d",
+    "revision": "0cdf75954893ef52192d6814953baea4",
     "url": "/mazegame/index.html"
   }
 ];
