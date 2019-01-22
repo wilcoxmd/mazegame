@@ -1,3 +1,13 @@
+# Mario Maze Game
+
+This is just a little game that is put together as a first try at using GitHub pages. You can play the game at https://wilcoxmd.github.io/mazegame/.
+
+1. Enter a game board width and height in the prompt boxes that appear when you land on the game
+2. Use the arrow keys to move Mario around the game board and run into the goombas.
+3. Refresh to play again
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
